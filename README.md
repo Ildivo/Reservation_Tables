@@ -184,7 +184,7 @@ docker-compose exec app alembic revision --autogenerate -m "Description"
 ## 📬 Contact
 Feel free to reach out for feedback or collaboration:
 - GitHub: [ildivo](https://github.com/Ildivo/)
-- Telegram: [@realiste0008](https://tg)
+- Telegram: [@realiste0008](https://t.me/realiste0008)
 
 ---
 
